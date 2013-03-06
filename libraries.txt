@@ -21,7 +21,7 @@ hsl	hsl	Health Sciences Library
 jour	jour	Journalism Library
 law	law	Law Library
 lehman	lehman	Lehman Social Sciences Library
-lehsuite	lehman	Lehman Suite
+#lehsuite	lehman	Lehman Suite
 lehmanref	lehman	Digital Social Science Center
 math	math	Mathematics Library
 mathref	math	Mathematics Library Reference
