@@ -1,10 +1,11 @@
 library	group	name
-avery	avery	Avery Architecture & Fine Arts Library
-barnard	barnard	Barnard Library
-burke	burke	Burke Library at Union Theological Seminary
-business	business	Business & Economics Library
-butler24	butler24	Butler's Milstein 24 Hour Rooms
-butler	butler	Butler Library
+avery	avery	Avery Architecture & Fine Arts Library	40.80829	-73.96095
+barnard	barnard	Barnard Library	40.80970	-73.96367
+burke	burke	Burke Library at Union Theological Seminary	40.81115	-73.96201
+business	business	Business & Economics Library	40.80927	-73.96110
+businessst	business	Business & Economics Library Study Hall Hours
+butler24	butler24	Butler's Milstein 24 Hour Rooms 40.80655	-73.96310
+butler	butler	Butler Library 40.80655	-73.96310
 bmc	butler	Butler Media Center
 pmrr	butler	Butler Periodicals & Microforms Reading Room
 butlres	butler	Butler Reserves
@@ -14,19 +15,20 @@ ohro	butler	Oral History Research Office
 rbml	butler	Rare Book & Manuscript Library
 ill	butler	Interlibrary Loan Services
 lio	butler	Library Information Office
-eng	eng	Engineering Library
-geology	geology	Geology Library
-geosci	geosci	Geoscience Library at Lamont Doherty Earth Observatory
-hsl	hsl	Health Sciences Library
-jour	jour	Journalism Library
-law	law	Law Library
-lehman	lehman	Lehman Social Sciences Library
+eng	eng	Engineering Library	40.80938	-73.95974
+geology	geology	Geology Library	40.80867	-73.96067
+geosci	geosci	Geoscience Library at Lamont Doherty Earth Observatory	41.00641	-73.90726
+hsl	hsl	Health Sciences Library 40.84267	-73.94256
+jour	jour	Journalism library	40.80764	-73.96369
+law	law	Law Library	40.80714	-73.96031
+lehman	lehman	Lehman Social Sciences Library	40.80761	-73.95966
+lehmanst	lehman	Lehman Study Hall
 #lehsuite	lehman	Lehman Suite
 lehmanref	lehman	Digital Social Science Center
-math	math	Mathematics Library
+math	math	Mathematics Library	40.80898	-73.96280
 mathref	math	Mathematics Library Reference
-music	music	Music & Arts Library
-science	science	Science & Engineering Library
-socwk	socwk	Social Work Library
-eastasian	eastasian	Starr East Asian Library
-tc	tc	Teachers College
+music	music	Music & Arts Library	40.80804	-73.96310
+science	science	Science & Engineering Library	40.81004	-73.96206
+socwk	socwk	Social Work Library	40.81046	-73.95815
+eastasian	eastasian	Starr East Asian Library	40.80723	-73.96147
+tc	tc	Teachers College	40.80994	-73.95997
