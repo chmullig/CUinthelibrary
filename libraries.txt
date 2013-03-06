@@ -1,0 +1,32 @@
+library	group	name
+avery	avery	Avery Architecture & Fine Arts Library
+barnard	barnard	Barnard Library
+burke	burke	Burke Library at Union Theological Seminary
+business	business	Business & Economics Library
+butler24	butler24	Butler's Milstein 24 Hour Rooms
+butler	butler	Butler Library
+bmc	butler	Butler Media Center
+pmrr	butler	Butler Periodicals & Microforms Reading Room
+butlres	butler	Butler Reserves
+dhc	butler	Digital Humanities Center
+uarchives	butler	University Archives
+ohro	butler	Oral History Research Office
+rbml	butler	Rare Book & Manuscript Library
+ill	butler	Interlibrary Loan Services
+lio	butler	Library Information Office
+eng	eng	Engineering Library
+geology	geology	Geology Library
+geosci	geosci	Geoscience Library at Lamont Doherty Earth Observatory
+hsl	hsl	Health Sciences Library
+jour	jour	Journalism Library
+law	law	Law Library
+lehman	lehman	Lehman Social Sciences Library
+lehsuite	lehman	Lehman Suite
+lehmanref	lehman	Digital Social Science Center
+math	math	Mathematics Library
+mathref	math	Mathematics Library Reference
+music	music	Music & Arts Library
+science	science	Science & Engineering Library
+socwk	socwk	Social Work Library
+eastasian	eastasian	Starr East Asian Library
+tc	Teachers College	tc	Teachers College
