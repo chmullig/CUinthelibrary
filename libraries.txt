@@ -29,4 +29,4 @@ music	music	Music & Arts Library
 science	science	Science & Engineering Library
 socwk	socwk	Social Work Library
 eastasian	eastasian	Starr East Asian Library
-tc	Teachers College	tc	Teachers College
+tc	tc	Teachers College
