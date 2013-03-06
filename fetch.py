@@ -57,13 +57,11 @@ for library in libraries:
 
                     if closeStr == "Noon":
                         parsedTime = time(12,00)
-                        closes = datetime.combine(dt, parsedTime)
                     elif closeStr == "Midnight":
                         parsedTime = time(0,00)
-                        closes = datetime.combine(dt, parsedTime)+timedelta(days=1)
                     else:
                         parsedTime = datetime.strptime(closeStr, "%I:%M%p").time()
-                        closes = datetime.combine(dt, parsedTime)
+                    closes = datetime.combine(dt, parsedTime)
                     
                     if closes.time() < time(8, 00):
                         #it closes after midnight
