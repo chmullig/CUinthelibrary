@@ -1,0 +1,9 @@
+<!doctype html>
+<title>CU in the Library</title>
+<div class=container>
+<h1>CU in the Library</h1>
+{% for lib in libs %}
+<div class=lib><span class=name>{{ lib[1] }}:</span> OPEN for another {{ lib[-1] }} hours, until {{ lib[4] }}.</div>
+{% endfor %}
+
+</div>
